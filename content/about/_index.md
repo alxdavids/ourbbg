@@ -6,7 +6,7 @@ draft: false
 ---
 
 Our Baseball Ground charts the memories and experiences of Alex and
-Alex: a married couple, recently moved to Lisbon, Portugal, that have
+Alex: a married couple, recently moved to Lisbon, Portugal, who have
 watched Derby County for far longer than is necessary. Having had season
 tickets from the early 2000s until 2020, their memories of Derby County
 span close to two decades of (*almost entirely*) second-tier English

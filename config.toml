@@ -48,8 +48,8 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
-name = "Posts"
-URL = "posts"
+name = "Podcasts"
+URL = "categories/podcast"
 weight = 3
 
 [[menu.main]]
