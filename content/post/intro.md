@@ -185,7 +185,7 @@ owned by a mysterious Panamanian Corportation [nearly 15 years
 ago](http://news.bbc.co.uk/sport2/hi/football/4954484.stm), only to then
 celebrate selling it to a businessman who now plans to sell the club to
 an opaque and unknown consortium fronted by an individual from the UAE.
-Our Baseball Ground saw the club sack its club captain for off-field
+Our Baseball Ground saw the club sack its club captain for an off-field
 incident that was executed by two players that continued to play for the
 club. Our Baseball Ground, saw the club run into the ground by a local
 businessman. A man that single-handedly and painstakingly dismantled the
