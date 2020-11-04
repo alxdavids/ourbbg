@@ -1,14 +1,10 @@
 ---
 title: "Alex Davidson"
 image: "images/profiles/alex-davidson.jpg"
-email: "coela@alxdavids.xyz"
+email: "admin@ourbaseballground.com"
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://twitter.com/alxdavids"
 ---
 
 My name is Alex.
