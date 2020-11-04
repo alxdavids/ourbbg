@@ -1,4 +1,4 @@
-baseURL = "https://ourbaseballground.com/"
+baseURL = "https://ourbbg.vercel.app/"
 title = "Our Baseball Ground"
 theme = "persian-hugo"
 languageName = "En"
