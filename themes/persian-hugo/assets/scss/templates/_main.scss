@@ -181,6 +181,10 @@
   }
 }
 
+.details p {
+  color: lighten($color: $text-color, $amount: 20);
+}
+
 // content style
 .content {
 
@@ -207,11 +211,11 @@
   }
 
   a {
-    color: $text-color;
-    border-bottom: 1px dotted $border-color;
+    color: $link-color;
+    border-bottom: 1px dotted $link-hover-color;
 
     &:hover {
-      color: $primary-color;
+      color: $link-hover-color;
     }
   }
 

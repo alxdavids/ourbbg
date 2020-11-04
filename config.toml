@@ -48,7 +48,7 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
+name = "Get in touch"
 URL = "contact"
 weight = 3
 
@@ -58,7 +58,7 @@ weight = 3
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Our Baseball Ground"
 # search  
 search = true
 # contact form action
@@ -72,10 +72,6 @@ enable = true
 preloader = "" # use jpg, png, svg or gif format.
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 [[params.social]]
 title = "twitter"
@@ -85,14 +81,4 @@ link = "#"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"

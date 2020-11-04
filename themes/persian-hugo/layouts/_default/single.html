@@ -20,6 +20,7 @@
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <h1 class="mb-4">{{ .Title }}</h1>
+        <div class="details"><p>Approximate reading time: {{ math.Round (div (countwords .Content) 220.0) }} minutes <br>Word count: {{ .Content | countwords }}</p></div><br>
         <div class="content">{{.Content}}</div>
 
         <div class="text-center mt-5">
@@ -39,16 +40,8 @@
   </div>
 </section>
 
-{{ if .Site.DisqusShortname }}
-<section class="section-sm bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
-        {{ template "_internal/disqus.html" . }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
+<script src="https://utteranc.es/client.js" repo="alxdavids/ourbbg" issue-term="pathname" label="comments"
+  theme="github-dark-orange" crossorigin="anonymous" async>
+</script>
 
 {{ end }}

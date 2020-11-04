@@ -1,6 +1,6 @@
 ---
 title: "Alex Davidson"
-image: ""
+image: "images/profiles/alex-davidson.jpg"
 email: "coela@alxdavids.xyz"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
@@ -11,4 +11,4 @@ social:
     link : "#"
 ---
 
-My name is Alex
+My name is Alex.
