@@ -76,7 +76,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/ourbaseballground"
+link = "https://twitter.com/ourbbg"
 
 [[params.social]]
 title = "instagram"
