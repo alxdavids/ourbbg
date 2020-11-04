@@ -3,6 +3,11 @@ title: "Our Baseball Ground"
 image: "images/about.jpg"
 description: "The about page"
 draft: false
+social:
+  - icon : "ti-instagram"
+    link : "https://instagram.com/ourbaseballground"
+  - icon : "ti-twitter-alt"
+    link : "https://twitter.com/ourbaseballground"
 ---
 
 Our Baseball Ground charts the memories and experiences of Alex and
