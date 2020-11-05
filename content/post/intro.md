@@ -1,13 +1,13 @@
 ---
 title: "Derby County: The Beginning of the End?"
-date: 2020-11-05
+date: 2020-11-05 
 image: "images/post/post-1.jpg"
-author: "Alex Davidson"
+author: "Alex Davidson" 
 description: "An introduction to Our Baseball Ground"
 categories: ["article", "theme"]
-tags: ["intro"]
-podcastID: ""
-podcastPath: "intro"
+tags: ["intro"] 
+podcastID: "" 
+podcastPath: "intro" 
 podcastTitle: "The Beginning of the End"
 draft: false
 ---
@@ -35,7 +35,7 @@ I'm concerned, he's an *ex-player*). Or, we are known as the club that
 pioneered exploiting accounting loopholes in order to effectively break
 the rules around Financial Fair Play.
 
-The end result is ultimately animosity, Derby County's current
+The end result is ultimately animosity. Derby County's current
 incarnation does not have a lot of friend's beyond the city limits.
 Critically, I believe that this imminent takeover will only solidify the
 negative external impression of the club. Moreover, it is debatable
@@ -103,15 +103,16 @@ season. The seasons that did see multiple successes collected together
 [anyway](https://www.bbc.com/sport/football/48331145). And [when they
 didn't end in
 despair](http://news.bbc.co.uk/sport2/hi/football/eng_div_1/6689971.stm),
-they were just crowned the [worst team in
+the club was just crowned the [worst team in
 history](http://news.bbc.co.uk/sport2/hi/football/teams/d/derby_county/4856682.stm)
 the next year instead.
 
-Manager's have come and gone since 2004, precisely 18 people have been
-entrusted with the reins for a competitive match. That's nearly 41% of
-all the managers in the entire 136 year history of the club, in just 17
-seasons (and may grow again very soon). Player's have also come and
-gone. Many that I don't remember, and some that I wish that I didn't.
+Manager's have come and gone since 2004: precisely different 18 people
+have been entrusted with the reins for a competitive match. That's
+nearly 41% of all the managers in the entire 136 year history of the
+club, in just 17 seasons (and may grow again very soon). Player's have
+also come and gone. Many that I don't remember, and some that I wish
+that I didn't.
 
 Throughout all of this change, the team has had many so-called
 philosophies. From the somewhat pioneering 4-3-3 of the George Burley
@@ -125,10 +126,10 @@ chaotic yet exciting year under Frank Lampard, to the calming scaling
 back of the club's ambitions under Philip Cocu.
 
 A club at once criticised for its flaunting of spending power, whilst
-only having a net spend of 1.4 million in the years between and
+only having a net spend of £1.4 million in the years between and
 including the 16-17 and 19-20 seasons. A club praised for its
-integration of numerous youth players, whilst also continuing to sign
-34 year old strikers with a goalscoring average of less than 1 goal in
+integration of numerous youth players, whilst also continuing to sign 34
+year old strikers with a goalscoring average of less than 1 goal in
 every 6 matches.
 
 As we enter our 17th season of watching and listening to nearly every
@@ -145,8 +146,8 @@ audiences is likely to be felt far beyond the North West and the
 unforgivable demise of historic clubs such as Bury and Macclesfield
 Town.
 
-Derby County will potentially face a similar fate if things continue
-as they are. A club that famously haemorrhages cash, with very limited
+Derby County will potentially face a similar fate if things continue as
+they are. A club that famously haemorrhages cash, with very limited
 chances in terms of succeeding in their current division. It's a toxic
 combination, that is made worse by the EFL's insistence that clubs abide
 by FFP regulations that the EFL does nothing to enforce. Or worse,
@@ -160,39 +161,44 @@ the [solidification of the current footballing
 elite](https://www.bbc.com/sport/football/54545053).
 
 Watching Derby County games on television further reinforces the stark
-gap in quality between the top division and the level that we currently
-operate. Even if a miraculous promotion were to occur, it is not clear
-how much improvement would have to be made to avoid a similar fate to
-the 07/08 season. More likely is that the club will continue to
-integrate young players and narrowly avoid relegation this year. But,
-finding springboards for rapid improvement from these positions is
-always unlikely. Even more so without the financial backing to enact
-such changes. And *this* is the void. A void where a takeover by a
+gap in quality between the top division and the level that the club
+currently operates at. Even if a miraculous promotion were to occur, it
+is not clear how much improvement would have to be made to avoid a
+similar fate to the 07/08 season. More likely is that the club will
+continue to integrate young players and narrowly avoid relegation this
+year. But, finding springboards for rapid improvement from these
+positions is always unlikely. Even more so without the financial backing
+to enact such changes.
+
+So, *this* brings us to the void. A void where a takeover by a
 mysterious and unknown consortium of individuals with links to the Abu
 Dhabi royal family starts to make more sense. The only possible
 solution, for a club going backwards. A club that's arguably been going
-backwards for at least 6 years, but it may even be 16.
+backwards for *at least* 6 years, but probably closer to 16 with small
+interludes of positive progress in between.
 
 ## Our Baseball Ground
 
 Our Baseball Ground has never been the Baseball Ground itself, no matter
-how much older people yearn for those days, telling us that we should
-yearn for them ourselves. We never saw the *good* times, so we've had to
-make the good times from whatever we could during this fallow era.
+how much older fans yearn for those days. We've been told time and time
+again that we should yearn for those days ourselves. But we never saw
+the *good* times, so we've had to make the good times from whatever we
+could during this fallow era.
 
-Our Baseball Ground has been 15 seasons of second-tier football, split
-by the one ill-fated year in the top division of English football. Our
-Baseball Ground saw the club celebrate buying their stadium back from
-owned by a mysterious Panamanian Corportation [nearly 15 years
+Our Baseball Ground has been 16 seasons (and counting) of second-tier
+football, split by the one ill-fated year in the top division of English
+football. Our Baseball Ground saw the club celebrate buying their
+stadium back from the ownership of a mysterious Panamanian Corportation
+[nearly 15 years
 ago](http://news.bbc.co.uk/sport2/hi/football/4954484.stm), only to then
 celebrate selling it to a businessman who now plans to sell the club to
-an opaque and unknown consortium fronted by an individual from the UAE.
-Our Baseball Ground saw the club sack its club captain for an off-field
-incident that was executed by two players that continued to play for the
-club. Our Baseball Ground has seen the club run into the ground by a
-local businessman. A man that single-handedly and painstakingly
-dismantled the best Derby County squad over the past two decades, and
-then hid all of his failings behind the fact that he was a Derby
+an opaque and unknown consortium based in the UAE. Our Baseball Ground
+saw the club sack its club captain for an off-field incident that was
+executed by two players that continued to play for the club. Our
+Baseball Ground has seen the club steadily decline under the stewardship
+of a local businessman. A man that has painstakingly enabled the
+dismantling of the best Derby County squad over the past two decades,
+and then hid all of his failings behind the fact that he was a Derby
 *"fan"*. A man that continues to *speak* to supporters only via his
 regular appearances with his mates on talk-show radio.
 
@@ -203,9 +209,12 @@ position that it currently inhabits in the present day. We aim to
 publish an article every two weeks on a key topic: a match, a moment, a
 player, a person, or an object associated with the club. Alongside the
 article, we will record a podcast that will discuss the topic in more
-detail from our perspectives. If you would be interested in writing a
-guest article, or appearing as a guest on a podcast, please [get in
-touch](http://localhost:1313/contact/)!
+detail from our perspectives. In the end, we hope to create a tapestry
+of disparate elements that help inform the whole situation that the club
+currently finds itself in. Over the course of this endeavour, if you
+would be interested in writing a guest article, or appearing as a guest
+on a podcast, please [get in
+touch](https://ourbaseballground.com/contact/)!
 
 This is the only club we know, and so this is the only club that we can
 talk about.
