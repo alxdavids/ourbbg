@@ -5,8 +5,6 @@ languageName = "En"
 languageCode = "en-us"
 # post pagination
 paginate = "5"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
 
 ############################# output ##############################
 [outputs]
@@ -62,7 +60,7 @@ author = "Our Baseball Ground"
 # search  
 search = true
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://getform.io/f/013a9c64-5765-4225-93b9-0a7043055dd9" # contact form works with https://formspree.io
 # copyright
 copyright = "Theme designed By [Themefisher](https://themefisher.com/) & developed By [Gethugothemes](https://gethugothemes.com/)"
 
