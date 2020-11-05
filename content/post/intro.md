@@ -196,11 +196,11 @@ then hid all of his failings behind the fact that he was a Derby
 *"fan"*. A man that continues to *speak* to supporters only via his
 regular appearances with his mates on talk-show radio.
 
-Against this backdrop, we wanted to start a discussion around the
-recent history that we *do* know. We wanted to talk about what elements
-of this period have been crucial in determining the clubs trajectory to
-the position that it currently inhabits in the present day. We aim to
-publish an article every week on a key topic: a match, a moment, a
+Against this backdrop, we wanted to start a discussion around the recent
+history that we *do* know. We wanted to talk about what elements of this
+period have been crucial in determining the clubs trajectory to the
+position that it currently inhabits in the present day. We aim to
+publish an article every two weeks on a key topic: a match, a moment, a
 player, a person, or an object associated with the club. Alongside the
 article, we will record a podcast that will discuss the topic in more
 detail from our perspectives. If you would be interested in writing a

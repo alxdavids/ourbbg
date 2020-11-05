@@ -24,5 +24,6 @@ matches, moments, people, and objects associated with the football
 club; primarily considering their impact on and association with what
 has ultimately been a period of slow and torturous decline.
 
-We aim to publish one article and podcast each week that discusses a
-single point of reference, and how it fits into this broader narrative.
+We aim to publish an article and podcast every two weeks that discusses
+a single point of reference, and how it fits into this broader
+narrative.
