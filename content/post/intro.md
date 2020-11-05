@@ -1,5 +1,5 @@
 ---
-title: "Derby County: The Beginning of the End"
+title: "Derby County: The Beginning of the End?"
 date: 2020-11-05
 image: "images/post/post-1.jpg"
 author: "Alex Davidson"
