@@ -57,7 +57,7 @@ weight = 3
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Our Baseball Ground blog"
 author = "Our Baseball Ground"
 # search  
 search = true
@@ -82,3 +82,8 @@ link = "https://twitter.com/ourbbg"
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://instagram.com/ourbaseballground"
+
+#################### podcast vars #############################
+[params.podcast]
+author = "ourbaseballground"
+url = "https://soundcloud.com/ourbaseballground"

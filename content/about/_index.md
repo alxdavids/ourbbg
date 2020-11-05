@@ -1,6 +1,6 @@
 ---
-title: "Our Baseball Ground"
-image: "images/about.jpg"
+title: ""
+image: "images/logo.png"
 description: "The about page"
 draft: false
 social:

@@ -1,12 +1,14 @@
 ---
 title: "Derby County: The Beginning of the End"
-date: 2020-11-02
+date: 2020-11-05
 image: "images/post/post-1.jpg"
 author: "Alex Davidson"
 description: "An introduction to Our Baseball Ground"
 categories: ["article", "theme"]
 tags: ["intro"]
-podcast: "http://localhost:1313"
+podcastID: ""
+podcastPath: "intro"
+podcastTitle: "The Beginning of the End"
 draft: false
 ---
 
@@ -72,14 +74,14 @@ attend more games. My first fully-formed memories of Derby County came
 in 2004, witnessing some crucial games in the second half of the season
 where Leon Osman helped inspire the club to safety after a torrid season
 that looked likely to end up in a relegation to the third tier. The next
-year, the 04-05 season, we had a season ticket for the first time. This
-association continued uninterrupted for 15 years. Even after I moved
-away from the city for university, and even I moved around the UK to
-Leeds and London for work. Most weeks, returning to Derby to my seat
-next to my Dad in the East stand. I met my future wife for the first
-time at an away match at Carrow Road in 2008. Over the following years,
-we've been to more games together than I can really remember. It's safe
-to say my life became intertwined with the club.
+year, the 04-05 season, my Dad and I had a season ticket for the first
+time. This association continued uninterrupted for 15 years. Even after
+I moved away from the city for university, and even I moved around the
+UK to Leeds and London for work. Most weeks, returning to Derby to my
+seat next to my Dad in the East stand. I met my future wife (AH-D) for
+the first time at an away match at Carrow Road in 2008. Over the
+following years, we've been to more games together than I can really
+remember. It's safe to say our lives became intertwined with the club.
 
 In 2019, my wife and I made a move one step too far: to Lisbon,
 Portugal. It turns out there is no easy way of making a Saturday
@@ -108,8 +110,8 @@ the next year instead.
 Manager's have come and gone since 2004, precisely 18 people have been
 entrusted with the reins for a competitive match. That's nearly 41% of
 all the managers in the entire 136 year history of the club, in just 17
-seasons. Player's have also come and gone. Many that I don't remember,
-and some that I wish that I didn't.
+seasons (and may grow again very soon). Player's have also come and
+gone. Many that I don't remember, and some that I wish that I didn't.
 
 Over all this change, the team has had many so-called philosophies.
 From the somewhat pioneering 4-3-3 of the George Burley era, to the
@@ -187,12 +189,12 @@ celebrate selling it to a businessman who now plans to sell the club to
 an opaque and unknown consortium fronted by an individual from the UAE.
 Our Baseball Ground saw the club sack its club captain for an off-field
 incident that was executed by two players that continued to play for the
-club. Our Baseball Ground, saw the club run into the ground by a local
-businessman. A man that single-handedly and painstakingly dismantled the
-best Derby County squad over the past two decades, and then hid all of
-his failings behind the fact that he was a Derby *"fan"*. A man that
-continues to *speak* to supporters only via his regular appearances with
-his mates on talk-show radio.
+club. Our Baseball Ground has seen the club run into the ground by a
+local businessman. A man that single-handedly and painstakingly
+dismantled the best Derby County squad over the past two decades, and
+then hid all of his failings behind the fact that he was a Derby
+*"fan"*. A man that continues to *speak* to supporters only via his
+regular appearances with his mates on talk-show radio.
 
 Against this backdrop, we wanted to start a discussion around the
 recent history that we *do* know. We wanted to talk about what elements
