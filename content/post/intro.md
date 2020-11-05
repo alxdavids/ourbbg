@@ -44,7 +44,7 @@ In coordination, these two things are in danger of establishing Derby as
 a club with no future. Neither here, nor there. Championship
 make-weights. Probably too good to go down, probably too bad to go up.
 All of this comes with a painful and insignificant modern history. A
-history that has started to eclipse the club's former position as a
+history that has started to eclipse the club's former position, as a
 valued member of the top echelons of English football.
 
 Ultimately, this is why we wanted to write and talk about what we have
@@ -113,16 +113,16 @@ all the managers in the entire 136 year history of the club, in just 17
 seasons (and may grow again very soon). Player's have also come and
 gone. Many that I don't remember, and some that I wish that I didn't.
 
-Over all this change, the team has had many so-called philosophies.
-From the somewhat pioneering 4-3-3 of the George Burley era, to the
-resilient win-at-all-costs approach of Billy Davies, to the buy players
-without any planned system take of Paul Jewell, to the austerity years
-of focusing on the Scottish market under Nigel Clough, to the
-free-wheeling high-intensity attacking game of Steve McClaren, to the
-expensive stale periods under Paul Clement & Nigel Pearson, to the
-Vydra-reliant displays overseen by Gary Rowett, to the chaotic yet
-exciting year under Frank Lampard, to the calming scaling back of the
-club's ambitions under Philip Cocu.
+Throughout all of this change, the team has had many so-called
+philosophies. From the somewhat pioneering 4-3-3 of the George Burley
+era, to the resilient win-at-all-costs approach of Billy Davies, to the
+buy players without any planned system take of Paul Jewell, to the
+austerity years spent scouring the Scottish transfer market under Nigel
+Clough, to the free-wheeling, high-intensity attacking game under Steve
+McClaren, to the expensive stale periods under Paul Clement & Nigel
+Pearson, to the Vydra-reliant displays overseen by Gary Rowett, to the
+chaotic yet exciting year under Frank Lampard, to the calming scaling
+back of the club's ambitions under Philip Cocu.
 
 A club at once criticised for its flaunting of spending power, whilst
 only having a net spend of 1.4 million in the years between and
@@ -131,8 +131,8 @@ integration of numerous youth players, whilst also continuing to sign
 34 year old strikers with a goalscoring average of less than 1 goal in
 every 6 matches.
 
-After 17 seasons of watching and listening to nearly every game, we
-still don't know what the identity of the club is.
+As we enter our 17th season of watching and listening to nearly every
+game, we still don't know what the identity of the club is.
 
 ## The Future
 
