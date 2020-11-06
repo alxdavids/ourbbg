@@ -18,7 +18,7 @@ Against the backdrop of poor quality football being played in empty
 Championship stadiums, polls have suggested that the news has largely
 been taken [with
 optimism](https://dcfcfans.uk/topic/35944-poll-mel-selling-derby-county-fc/).
-Part of this may be a decline in the popularity for the way that the
+Part of this may be a decline in the popularity for the manner that the
 current owner Mel Morris is running the club, but the promise of riches
 that may propel the club to better things is also likely to be a
 dominant factor.
@@ -38,7 +38,8 @@ the rules around Financial Fair Play.
 The end result is ultimately animosity. Derby County's current
 incarnation does not have a lot of friend's beyond the city limits.
 Critically, I believe that this imminent takeover will only solidify the
-negative external impression of the club. Moreover, it is debatable
+negative external impression of the club. Perhaps ensuring a permanence
+to the current perceptions of the club. Moreover, it is debatable
 whether it will bring any positive change in terms of on-pitch success.
 In coordination, these two things are in danger of establishing Derby as
 a club with no future. Neither here, nor there. Championship
@@ -76,10 +77,10 @@ where Leon Osman helped inspire the club to safety after a torrid season
 that looked likely to end up in a relegation to the third tier. The next
 year, the 04-05 season, my Dad and I had a season ticket for the first
 time. This association continued uninterrupted for 15 years. Even after
-I moved away from the city for university, and even I moved around the
-UK to Leeds and London for work. Most weeks, returning to Derby to my
-seat next to my Dad in the East stand. I met my future wife (AH-D) for
-the first time at an away match at Carrow Road in 2008. Over the
+I moved away from the city for university, and even after I moved around
+the UK to Leeds and London for work. Most weeks, returning to Derby to
+my seat next to my Dad in the East stand. I met my future wife (AH-D)
+for the first time at an away match at Carrow Road in 2008. Over the
 following years, we've been to more games together than I can really
 remember. It's safe to say our lives became intertwined with the club.
 
@@ -202,10 +203,10 @@ and then hid all of his failings behind the fact that he was a Derby
 *"fan"*. A man that continues to *speak* to supporters only via his
 regular appearances with his mates on talk-show radio.
 
-Against this backdrop, we wanted to start a discussion around the recent
-history that we *do* know. We wanted to talk about what elements of this
-period have been crucial in determining the clubs trajectory to the
-position that it currently inhabits in the present day. We aim to
+With this in the rear mirror, we wanted to start a discussion around the
+recent history that we *do* know. We wanted to talk about what elements
+of this period have been crucial in determining the clubs trajectory to
+the position that it currently inhabits in the present day. We aim to
 publish an article every two weeks on a key topic: a match, a moment, a
 player, a person, or an object associated with the club. Alongside the
 article, we will record a podcast that will discuss the topic in more
