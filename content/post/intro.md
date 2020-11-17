@@ -6,9 +6,7 @@ author: "Alex Davidson"
 description: "An introduction to Our Baseball Ground"
 categories: ["article", "theme"]
 tags: ["intro"] 
-podcastID: "" 
-podcastPath: "intro" 
-podcastTitle: "The Beginning of the End"
+podcastPath: "Episode-1---Derby-County-The-Beginning-of-the-End-emk6od"
 draft: false
 ---
 

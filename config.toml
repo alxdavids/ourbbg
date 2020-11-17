@@ -83,5 +83,4 @@ link = "https://instagram.com/ourbaseballground"
 
 #################### podcast vars #############################
 [params.podcast]
-author = "ourbaseballground"
-url = "https://soundcloud.com/ourbaseballground"
+url = "https://anchor.fm/our-baseball-ground/embed/episodes"
