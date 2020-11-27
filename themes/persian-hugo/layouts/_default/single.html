@@ -19,8 +19,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <h1 class="mb-4">Listen to the podcast:</h1>
         {{ if .Params.PodcastPath }}
+        <h1 class="mb-4">Listen to the podcast:</h1>        
         <div class="text-center">
           <iframe src="{{ .Site.Params.podcast.url }}/{{ .Params.PodcastPath }}" height="102px" width="100%" frameborder="no" scrolling="no"></iframe>
         </div>
