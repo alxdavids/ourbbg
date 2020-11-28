@@ -26,10 +26,10 @@ years by means of establishing a more consistent approach to winning
 football matches. A step above the Billy Davies era (if ultimately less
 successful) by routinely outplaying the opposition.
 
-In truth, his managerial reign went on to define a philosophy and a
-set of players whose shadows the club has never truly escaped from.
-A period of such success (relative to previous years) on relatively
-little resources should have been capitalised on. Instead the weight of
+In truth, his managerial reign went on to define a philosophy and a set
+of players whose shadows the club has never truly escaped from. A period
+of such success (relative to previous years) on relatively little
+resources should have been capitalised on. Instead the weight of
 expectation that these years generated became the albatross around the
 club's neck. Derby were probably the best team in the championship by
 some way for a 16 month period. Unfortunately that 16 month period
@@ -58,16 +58,6 @@ showings, but the lack of improvement coupled with a routine defeat away
 at Forest seemed to indicate that progress was going to be limited in
 the upcoming season as well.
 
-Clough's tenure was marked by a lack of any real philosophy. Formations
-came and went. Players arrived for little expenditure, and left for
-little income. At the end of the previous season, Chris Martin and Craig
-Forsyth arrived on loan from clubs in very similar positions; unfancied
-even at the level that Derby were competing. Overall, the hope appeared
-to be that Derby would eventually strike lucky on a combination of cheap
-players and tactical tweaks. In a division as competitive as the
-championship, such occurrences are rare, and usually [end up in disaster
-anyway](http://news.bbc.co.uk/sport2/hi/football/eng_prem/7309363.stm). 
-
 In the last season, Derby had finished 10th. With 7 games to play there
 was a marginal hope that they may make the playoffs but a poor run of
 results saw Derby fall a significant number of points off. In the close
@@ -77,14 +67,15 @@ Scottish forward Johnny Russell from Dundee United. Other deals included
 signing long-term transfer target John Eustace, and the goalkeeper Lee
 Grant (both for the second time).
 
-The team struggled at home, beaten comprehensively by the eventual top
-two Leicester and Burnley, and yet to win at Pride Park by the time
-Ipswich arrived. Away from home was a different story, where they had
-three wins (including three and five goals at Yeovil and Millwall,
-respectively) and were unbeaten until they lost to Forest at the end of
-September. The ever energetic midfielder Craig Bryson had demonstrated
-his rising goal threat with a hattrick in the Millwall game. A troubling
-start no doubt, but not without reasons for some optimism.
+This time around the team struggled at home, beaten comprehensively by
+the eventual top two Leicester and Burnley, and yet to win at Pride Park
+by the time Ipswich arrived. Away from home was a different story, where
+they had three wins (including three and five goals at Yeovil and
+Millwall, respectively) and were unbeaten until they lost to Forest at
+the end of September. The ever energetic midfielder Craig Bryson had
+demonstrated his rising goal threat with a hattrick in the Millwall
+game. A troubling start no doubt, but not without reasons for some
+optimism.
 
 Steve McClaren was announced as Head Coach the day before the Ipswich
 game, arriving with Paul Simpson as assistant, "it's great to be back
@@ -95,19 +86,20 @@ the title "Head Coach" was not a misnomer.
 
 ## A disastrous start
 
-The game itself was watched by a very lowly 21000 people. (Remember the
-days where such crowds were small!). Sitting in the ground with my Dad,
-I was full of optimism for a new start that was seemingly not matched by
-the rest of the city. The Nigel Clough era never really worked for me,
-and so (even) Steve McClaren was a breath of fresh air. But for this
-game, it was Darren Wassall in charge (the head of the youth team).
-McClaren was in the stadium but hadn't signed the contract in time to
-have the honour of leading the team out yet.
+Sitting in the ground with my Dad, I was full of optimism for a new
+start that was seemingly not matched by the rest of the city. The Nigel
+Clough era never really worked for me, and so (even) Steve McClaren was
+a breath of fresh air. But for this game, it was Darren Wassall in
+charge (the head of the youth team). McClaren was in the stadium but
+hadn't signed the contract in time to have the honour of leading the
+team out yet.
 
-The team set up looks a bit laughable now with everything that has come
-and gone. A midfield two of Bryson and Hughes was always going to be far
-too open. Conor Sammon and Ben Davies should never have been on the
-pitch in the first place. Chris Martin in a front two? Please.
+With everything that has come and gone since, the initial set up looks a
+bit laughable now. A midfield two of Bryson and Hughes was always going
+to be far too open; any fool with retrospective vision could have told
+you that! Not to mention the fact that Conor Sammon and Ben Davies
+should never have been on the pitch in the first place. Chris Martin in
+a front two? Please.
 
 ![Starting lineup](https://ourbaseballground.com/images/ipswich/start.png)
 
@@ -124,17 +116,18 @@ straight through Lee Grant. He then retrieved his third assist with
 
 ## A comeback
 
-In the stadium, it was the same as usual. Standing around waiting for
-the team to come out and finish off what they had started. In the
+Half time in the stands was the same as usual. Standing around waiting
+for the team to come out and finish off what they had started. In the
 dressing room, McClaren and Simpson had decided that the first half
 performance was beyond the pale. Demanding a switch to a 4-3-3 that
 would allow the midfield of Hughes and Bryson more license to attack
-with a defensive shield in behind, and a removal of the systematically
+with a defensive shield in behind, and the removal of the systematically
 poor Ben Davies for some more mobility on the wing. On came John Eustace
-for Conor Sammon and Mason Bennett for Ben Davies. On the face of it,
-potentially negative changes, but the foresight to release the midfield
-was to change the game. A rousing team talk was reportedly given by Paul
-Simpson and away they went.
+for Conor Sammon, and Mason Bennett for Davies. On the face of it,
+potentially negative changes, but the foresight to coordinate the attack
+from the midfield was to change the game (and the subsequent seasons). A
+rousing team talk was reportedly given by Paul Simpson and away they
+went.
 
 ![Lineup after halftime](https://ourbaseballground.com/images/ipswich/ht.png)
 
@@ -143,18 +136,18 @@ grappling with their last chance to save a season that was fast
 unravelling into mediocrity. There were midfield runners: Craig Bryson
 arriving into the box to reduce the deficit after only two minutes. The
 wide players were feeding off the cultured three-course meals served up
-by Chris Martin: Jamie Ward bringing Derby closer to a hugely improbable
-(but completely necessary) comeback. A team with added the intensity to
-keep attacking from multiple angles even late into the game. Craig
-Bryson a man desperate to assert his credentials for the player of the
-season award at this early stage completed the comeback as Derby ground
-Ipswich into a pulp.
+by Chris Martin: Jamie Ward bringing Derby closer to a highly improbable
+equaliser. Craig Bryson, a man desperate to assert his credentials for
+his second player of the season award even at this early stage,
+completed the comeback as Derby fashioned attacks from multiple angles
+to grind Ipswich into a pulp.
 
-I always found it fairly strange that Craig Bryson celebrated the final
-goal rather than sprinting the ball back to the centre circle, such was
-the level of dominance. It seemed inevitable that the team would win
-from the very first minute of the half, so it was a minor disappointment
-to only manage to overcome the three goal deficit for the draw.
+I always found it a little strange that Craig Bryson celebrated the
+final goal rather than sprinting the ball back to the centre circle,
+such was the level of dominance. It seemed inevitable that the team
+would win from the very first minute of the half, so it was a minor
+disappointment to only manage to overcome the mere three goal deficit
+for the draw.
 
 ## A catalyst
 
@@ -165,8 +158,6 @@ half-time team talk. It was obvious that the 4-3-3 formation that
 finished the game would continue into the next, with the substitutes
 Eustace and Bennett probably likely to start again at the weekend.
 
-![Table after 23 games](https://ourbaseballground.com/images/ipswich/table23.png)
-
 Up next was Leeds at home, and what came was a 3-1 win. Ten wins, two
 draws, and one loss from the next thirteen matches. Rising to third
 place after a win in the last game of 2013. The second half of the
@@ -174,21 +165,23 @@ season would be bumpier, but they would still finish the season an
 improbably 3rd. Losing only to Queens Park Rangers in one of the biggest
 injustices a play-off final has seen.
 
+![Table after 23 games](https://ourbaseballground.com/images/ipswich/table23.png)
+
 While small adjustments were made to the personnel over that season, the
 formation and style of play stuck. In fact, it was only when Gary Rowett
-succeeded McClaren in 2017 that the formation was really abandoned. When
-McClaren was sacked at the end of the next season, it was noted that
-Derby didn't have a plan B when things got tough. But the real issue
-seemed to be that they had lost the personnel to play the required
-roles.
+succeeded McClaren (part two) in 2017 that the formation was really
+abandoned. When McClaren was sacked at the end of the 2015 season, it
+was noted that Derby didn't have a plan B when things got tough. But the
+real issue seemed to be that they had lost the personnel to play the
+required roles.
 
 ## What remains?
 
-The only player left from the Tuesday night against Ipswich is the Craig
+The only player left from that Tuesday night against Ipswich is Craig
 Forsyth, but it would be surprising if he remained a Derby player beyond
 this season. Beyond the long-serving left back, it's difficult to see
-what remains from the night that kicked the club into its most
-positive period of football since the late 90s.
+what remains from the night that kicked the club into its most positive
+period of football since the late 90s.
 
 Now, sitting bottom of the championship, led by an interim management
 team centred around Wayne Rooney. It's easy to wonder how it all went so
