@@ -47,8 +47,6 @@ would never really move on from.
 
 ## The sacking of Nigel Clough
 
-![Table after 9 games](https://ourbaseballground.com/images/ipswich/table09.png)
-
 Nigel Clough and the years he spent as the manager of Derby County
 probably deserve their own dedicated discussions, but his ending came as
 something of a surprise. After 9 games, in a very typical Nigel Clough
@@ -57,6 +55,8 @@ Clough shown the door after the best of four years of very similar
 showings, but the lack of improvement coupled with a routine defeat away
 at Forest seemed to indicate that progress was going to be limited in
 the upcoming season as well.
+
+![Table after 9 games](https://ourbaseballground.com/images/ipswich/table09.png)
 
 In the last season, Derby had finished 10th. With 7 games to play there
 was a marginal hope that they may make the playoffs but a poor run of
