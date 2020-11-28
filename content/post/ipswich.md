@@ -187,4 +187,6 @@ Now, sitting bottom of the championship, led by an interim management
 team centred around Wayne Rooney. It's easy to wonder how it all went so
 wrong.
 
+## Match highlights
+
 <iframe class="text-center" width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Tq14BVbNFB8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
