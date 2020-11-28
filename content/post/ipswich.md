@@ -5,7 +5,7 @@ image: "images/post/ipswich.png"
 author: "Alex Davidson" 
 description: "Derby County 4-4 Ipswich Town"
 categories: ["article", "match"]
-tags: ["key match", "mcclaren"] 
+tags: ["key match", "mcclaren era"] 
 podcastPath: ""
 draft: false
 ---
