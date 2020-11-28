@@ -187,6 +187,8 @@
 
 // content style
 .content {
+  text-align: justify;
+  text-justify: inter-word;
 
   * {
     word-break: break-word;
