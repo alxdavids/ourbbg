@@ -46,9 +46,14 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
+name = "Podcasts"
+URL = "https://open.spotify.com/show/07rEbKxSgpFIdgpAlZGzBX?si=Rw81fNLiRsGZmZEJ370q3w"
+weight = 3
+
+[[menu.main]]
 name = "Get in touch"
 URL = "contact"
-weight = 3
+weight = 4
 
 
 #################### default parameters ################################
