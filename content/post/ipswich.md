@@ -6,7 +6,7 @@ author: "Alex Davidson"
 description: "Derby County 4-4 Ipswich Town"
 categories: ["article", "match"]
 tags: ["key match", "mcclaren era"] 
-podcastPath: ""
+podcastPath: "Episode-2---Derby-4-4-Ipswich-en46t3"
 draft: false
 ---
 
