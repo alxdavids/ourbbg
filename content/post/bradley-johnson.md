@@ -14,18 +14,18 @@ Last weekend, Derby celebrated a four game unbeaten run as they inched
 their way closer to the _feted_ 21st position in the league table. On
 the same day, Bradley Johnson, a former player, recorded his 500th start
 in career football. Over 4 years, Johnson made nearly 150 appearances
-for Derby. Initially overshadowed by a record transfer fee, eventually
+for Derby. Initially overshadowed by a record transfer fee; eventually
 becoming a well-liked and integral part of the club's midfield.
 
 Leaving in 2019, Bradley Johnson has continued to play consistently for
 league rivals Blackburn Rovers -- scoring twice earlier this season in a
 4-0 win at Pride Park. Today, we wonder whether the career arc of
 Johnson: unfairly maligned for being played in poorly designed systems,
-and then finally being let go too soon; is emblematic of an environment
+and then finally being let go too soon; is emblematic of a squad culture
 that encourages the systemically poor management of individual players.
-Essentially fostering a policy that fails to highlight the talents
-available in the squad, and subsequently laying the blame for any
-consequent failures on the players themselves.
+Essentially, fostering a playing policy that fails to highlight the
+talents available in the squad, and subsequently laying the blame for
+any consequent failures on the players themselves.
 
 ## A record signing
 
@@ -63,12 +63,12 @@ made since their return to the Championship.
 The fee for Johnson broke Derby's transfer fee record for the second
 time in the window. This signing established that Derby believed that
 they had the squad to spend their way out of the division. Externally,
-this transfer window would cultivate an external impression of Derby as
+this transfer window would cultivate the impression of Derby as being
 lavish spenders that would last for seasons afterwards. Bradley
-Johnson's arrival seemed drawn up out of thin air, rather than having
-any coherent plan about how he would benefit Derby's midfield in real
-terms. His referral to the club by the wrong name after signing perhaps
-illustrating the haste that the deal was completed in.
+Johnson's arrival seemed drawn up out of thin air, rather than as a part
+of any sort of coherent plan about how he would benefit Derby's
+midfield. His referral to the club by the wrong name after signing
+illustrating perhaps the haste that the deal was completed in.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/EI366o9Zbxw?start=46" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br>
@@ -78,13 +78,13 @@ illustrating the haste that the deal was completed in.
 Bradley Johnson would come in to the side on the left hand side of a
 midfield of a three. While he scored a small number of goals during a
 sequence of results that saw Derby rise to the top of the table, it
-never really seemed clear what was being arranged in the centre of
-midfield. Johnson contrasted with the more cultured midfield presences
-of Jeff Hendrick and Jacob Butterfield in offering a more combative
-approach. With the de-facto defensive shield of George Thorne unable to
-consistently stay fit, perhaps Johnson's physical characteristics led to
-him having to do more of the defensive work than he had previously been
-used to.
+never really seemed clear what was truly being arranged in the centre of
+that midfield. Johnson contrasted with the more cultured midfield
+presences of Jeff Hendrick and Jacob Butterfield in offering a more
+combative approach. With the de-facto defensive shield of George Thorne
+unable to consistently stay fit, Johnson's physical characteristics led
+him to having to do more of the defensive work than he had previously
+been used to.
 
 At Norwich, Johnson operated with a defensive shield behind, and a
 creative presence in front, which allowed him to focus on his own game
@@ -96,12 +96,12 @@ that it relied on Johnson for work that he was never really signed to
 do. His place in the team became uncertain, but results didn't really
 improve when he was eventually dropped.
 
-After Paul Clement was sacked, and Derby abandoned defensive practice
-for more attacking thrust, Johnson's reinstatement in the centre of
-play, with Thorne returning as the defensive coordinator, coincided with
-an upturn in results. Johnson's two goals in the 4-0 thrashing of
-playoff rivals Hull City illuminated the potential that existed when he
-was relinquished of defensive responsibility.
+After Paul Clement was sacked at the start of 2016, and Derby abandoned
+defensive practice for more attacking thrust, Johnson's reinstatement in
+the centre of play, with Thorne returning as the defensive coordinator,
+coincided with an upturn in results. Johnson's two goals in the 4-0
+thrashing of playoff rivals Hull City illuminated the potential that
+existed when he was relinquished of defensive responsibility.
 
 <br>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/bUe59M6D3Wc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -111,8 +111,8 @@ But the first leg of the playoffs that season, this time a 3-0 defeat
 against Hull, would see him held responsible for a performance that
 would effectively end any chance of Derby achieving promotion. After
 losing Thorne again to injury in the final game of the season, Johnson
-was relied on for a defensive presence that he had never previously
-showed. After being substituted early in the second half, he would not
+was yet again relied on for a defensive presence that he was not used
+to. After being substituted early in the second half, he would not
 reappear for the second leg consolation victory. At this point, it was
 difficult to believe that the club had spent wisely in acquiring him.
 
@@ -142,7 +142,7 @@ the playoff second leg, allowing the rest of the team to coordinate an
 attacking display that left him with almost the entire defensive
 responsibility. Ironically, allowing Johnson to take such an attacking
 role during his Derby career may have seen the club get the best out of
-him, but it had never really been offered.
+him, but it had never really seemed like a possibility.
 
 <br>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Dj5z6tfhI7U?start=76" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -170,11 +170,11 @@ By the time he left at the end of the 2019, it wasn't clear whether
 there was anyone at the club that could replace him. Under Philip Cocu,
 Derby experimented with the sort of 4-3-3 that Derby had finished the
 2019 season with, but poor results meant that Derby eventually had to
-adopt a two-player pivot where there had previously only been one. The
-fact that two bodies were now required to shield a defence that had not
-dramatically changed from the season before, would add weight to the
-belief that Derby had underestimated the impact of letting a player of
-Johnson's ability leave for nothing.
+adopt a two-player shield where there had previously only been a single
+pivot. The fact that two bodies were now required to shield a defence
+that had not dramatically changed from the season before, would add
+weight to the belief that Derby had underestimated the impact of letting
+a player of Johnson's ability leave for nothing.
 
 ## Systemic issues
 
@@ -233,7 +233,7 @@ Bradley Johnson made his 500th start, Derby drew at home with Stoke City
 to go level on points with Nottingham Forest in a battle to escape the
 Championship relegation zone. It's easy to come to the conclusion that
 Derby have simply made multiple ill-informed and costly decisions
-regarding playing personnel. Johnson's Derby career illuminates the
-possibility that it's just as likely that the players they had were good
+regarding playing personnel. Johnson's Derby career posits the
+hypothesis that it's just as likely that the players they had were good
 enough all along. It's just that nobody at the top ever considered it
 their responsibility to know how to get the best from them.
