@@ -6,7 +6,7 @@ author: "Alex Davidson"
 description: "A post on the Derby County of Bradley Johnson"
 categories: ["article", "player"]
 tags: ["key player"]
-podcastPath: ""
+podcastPath: "Episode-3---Bradley-Johnson-Ballad-of-a-Broken-Team-eo394b"
 draft: false
 ---
 
