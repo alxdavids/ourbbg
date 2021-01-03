@@ -111,7 +111,7 @@ against relegation rivals Wigan at home.
 <br><br>
 
 Uncharacteristically, the team battled to a draw on January 30th, before
-they pulled multiple all available desperation triggers again on
+they pulled all available desperation triggers again on
 deadline day. This time, they signed Roy Carroll and Alan Stubbs to
 double-down on adding more rotting careers to the pile, alongside the
 outright bizarre arrival of Australian journeyman Mile Sterjovski. This
