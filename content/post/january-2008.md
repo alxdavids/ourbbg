@@ -83,7 +83,7 @@ although he was willing to let Steve Howard (last season's top scorer)
 and Matt Oakley (the captain) go. At the start of the season, Oakley and
 Howard were seen as two of the most critical parts of any success that
 Derby may enjoy. Eminently, both had become too intertwined with the
-club's failure, and were deemed dispensable.
+club's failure and were assumed to be dispensable.
 
 Looking marginally closer at the details, there seemed to be very little
 evidence that Jewell had any idea what he was looking for. From a
@@ -110,13 +110,14 @@ against relegation rivals Wigan at home.
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/hkW0SucmgVM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
-Uncharacteristically, the team battled to a draw on January 30th, before
-they pulled all available desperation triggers again on
-deadline day. This time, they signed Roy Carroll and Alan Stubbs to
-double-down on adding more rotting careers to the pile, alongside the
-outright bizarre arrival of Australian journeyman Mile Sterjovski. This
-trio may now take comfort from the indisputable fact that the damage had
-already been long done by the time that they arrived.
+Uncharacteristically, the team battled to a draw on January 30th against
+Sven Goran Eriksson's Manchester City, before they pulled all available
+desperation triggers again on deadline day. This time, they signed Roy
+Carroll and Alan Stubbs to double-down on adding more rotting careers to
+the pile, alongside the outright bizarre arrival of Australian
+journeyman Mile Sterjovski. This trio may now take comfort from the
+indisputable fact that the damage had already been long done by the time
+that they arrived.
 
 Even allowing for the anomalousness of Villa and Ghaly, what we can
 derive from the window as a whole is that the manager thought that
@@ -137,30 +138,31 @@ a US-based
 consortium](https://www.theguardian.com/sport/blog/2008/feb/05/derbyleftinthedarkoverwh),
 ominously known as General Sports and Entertainment (GSE). The new
 owners would take over from the locally-sourced board of directors that
-had presided over the promotion last season, but it was not clear
-whether they already had been overseeing the spending early in the
-window.
+had presided over the promotion in the previous season. It was unclear
+whether the incoming owners had already been overseeing the spending
+early in the window.
 
 On top of all of this, this was the start of 2008 and the middle of a
-global financial crisis, caused primarily by severe investor
-over-confidence in unregulated markets. At the very least, Paul Jewell's
-spending spree on a set of both provably subprime and completely
-untested players, with very little apparent oversight, was offered
-almost perfectly as football's unironic reflection of the times.
+global financial crisis. The downturn had primarily been caused by the
+realisation of unpayable debts linked to severe investor over-confidence
+in unregulated markets. In retrospect, Paul Jewell's spending spree --
+engorging itself on a set of both provably subprime and completely
+untested players with very little pparent oversight -- was offered
+perfectly as football's unironic reflection of the times.
 
 ## The worst team in history
 
 As we know, Derby would accrue a further three points over the rest of
 the season. When evaluating how much the January recruitment drive
-failed, the nadir that we respect **has** to be the [6-0 home defeat by
-Aston Villa](https://www.premierleague.com/history/videos?se=16&cl=-1).
-But the real impact of the January 2008 transfer window was to be felt
-for years after the initial disaster that took place. Not until Nigel
-Clough was long gone, did Derby dare to meaningfully engage with this
-transfer window again. More importantly, the club was left saddled with
-a series of debts and obligations -- alongside a crippling lack of
-confidence -- that would see them waltz into middling obscurity in the
-second tier.
+failed, the nadir that we will all respect **has** to be the [6-0 home
+defeat by Aston
+Villa](https://www.premierleague.com/history/videos?se=16&cl=-1). But
+the real impact of the January 2008 transfer window was to be felt for
+years after the initial disaster took place. Not until Nigel Clough
+was long gone, did Derby dare to meaningfully engage with this transfer
+window again. More importantly, the club was left saddled with a series
+of debts and obligations -- alongside a crippling lack of confidence --
+that would see them waltz into middling obscurity in the second tier.
 
 Of the players that signed, Danny Mills would make only 3 appearances
 before being forced to retire with injury. Likewise, Alan Stubbs would
