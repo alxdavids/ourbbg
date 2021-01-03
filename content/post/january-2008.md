@@ -25,7 +25,7 @@ football for the first time since 1986.
 
 Nevertheless, in honour of the significance of the month of January in
 the football calendar, we will be digging through the rubble of the
-fateful -- and uniquely destructive -- winter window of the 2007/2008
+fateful -- and uniquely destructive -- winter window of the 2007-2008
 season. As the world crumbled in the hands of decaying financial
 institutions, Derby were desperately, and misguidedly, trying to cling
 onto their recently acquired Premier League status. Sadly enough, it is
@@ -90,15 +90,15 @@ evidence that Jewell had any idea what he was looking for. From a
 financial aspect, the immediate outlay for the players was not
 significantly higher than the money received from outgoings. The real
 expense came in the form of a rapidly expanding wage bill, fattened by
-the signing numerous high-profile players. Bringing such a large
+the signing of numerous high-profile players. Bringing such a large
 contingent who were very obviously finished was quite obviously
 ludicrous, at least for a team that had little hope of staying up.
 
 At the same time, how Jewell decided that replacing Steve Howard with
-Tito Villa, a forward who had had no notable career outside of Mexico,
-was mystifying. It was the sort of transfer dreamt up by a man that was
-still trading off an immensely fortunate end to the previous season's
-relegation battle.
+Tito Villa, a forward who until then had no notable career outside of
+Mexico, was mystifying. It was a desperately nostalgic transfer, dreamt
+up by a man that had made a habit of utilising obscure foreign markets
+in his time at Wigan.
 
 ## The more things change, the more they stay the same
 
@@ -132,13 +132,14 @@ returning to the same old names for mutual elongation of flagging
 careers.
 
 To make matters more complicated, Derby would see a change of ownership
-at the end of the month, being transferred themselves into the hands of
-a [US-based consortium known as
-GSE](https://www.theguardian.com/sport/blog/2008/feb/05/derbyleftinthedarkoverwh).
-The new owners would take over from the locally-sourced board of
-directors that had presided over the promotion last season, but it was
-not clear whether they already had been overseeing the spending early in
-the window.
+at the end of the month, being transferred themselves into the [hands of
+a US-based
+consortium](https://www.theguardian.com/sport/blog/2008/feb/05/derbyleftinthedarkoverwh),
+ominously known as General Sports and Entertainment (GSE). The new
+owners would take over from the locally-sourced board of directors that
+had presided over the promotion last season, but it was not clear
+whether they already had been overseeing the spending early in the
+window.
 
 On top of all of this, this was the start of 2008 and the middle of a
 global financial crisis, caused primarily by severe investor
@@ -176,13 +177,13 @@ his contract in 2011.
 Briefly on the topic of Robbie Savage, it's difficult to think of an
 incoming transfer that had more of a negative an impact on the club.
 Arriving from Blackburn Rovers, he was probably the highest profile
-signing, and his task was to instill order and discipline in a side that
+signing, and his task was to instil order and discipline in a side that
 was unable to organise itself. Strangely, Savage had fashioned his
 latter days into merely being an on-pitch *jester*, and so he seemed
-quite clearly ill-positioned to fulfill such a role. Consequently, while
+quite clearly ill-positioned to fulfil such a role. Consequently, while
 there was the significant financial outlay for a player coming to the
 end of his career, more costly was his continued presence throughout his
-3 and a half years the club. 
+3 and a half years at the club. 
 
 By the time Derby were relegated, Savage's playing ability had declined
 sharply to barely operating at a below-average Championship club, and
@@ -202,7 +203,7 @@ spend January 2010 back in the Premier League. Clubs like West Brom
 their _"bounciness"_ when it comes to their league status. But in
 reality, it's testament to their abilities to build squads that are that
 can consistently churn out results in the Championship and ultimately
-keep returning to the top tier. The midseason transfer window was a
+keep returning to the top tier. The mid-season transfer window was a
 chance for Derby to rectify the mistakes of the first half of the
 season, with the focus on establishing the club as a long-term Premier
 League fixture again. Instead, it was missed by such a wide margin that
@@ -212,7 +213,7 @@ austerity imposed during the Nigel Clough/GSE era.
 As the case may be for Derby, it may be that this was all unavoidable
 after all. Viewed in the wider context of Derby's trajectory since the
 heady days overseen by Jim Smith in the late 90s, the fact that Derby
-started the 2007/08 season in the Premier League was merely an
+started the 2007-08 season in the Premier League was merely an
 aberration within a systemic period of decline. Attempting to cling onto
 their status as a Premier League club in January 2008 by exercising
 significant financial resources, rather than accepting their certain
