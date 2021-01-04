@@ -42,7 +42,10 @@ totals didn't illustrate the chasm in quality between Derby and their
 rivals, perhaps the -36 goal difference, compared with the next worst
 -19, would.
 
-![Table at the start of January](https://ourbaseballground.com/images/january-2008/pl-table.png)
+<img
+src="https://ourbaseballground.com/images/january-2008/pl-table.png"
+alt="Table at the start of January"
+style="width: 75%">
 
 Derby had sacked Billy Davies and replaced him with the apparently
 "highly rated" ([according to Wikipedia,
