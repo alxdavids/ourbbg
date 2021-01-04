@@ -45,7 +45,8 @@ rivals, perhaps the -36 goal difference, compared with the next worst
 <img
 src="https://ourbaseballground.com/images/january-2008/pl-table.png"
 alt="Table at the start of January"
-style="width: 75%">
+style="width: 55%"
+class="text-center">
 
 Derby had sacked Billy Davies and replaced him with the apparently
 "highly rated" ([according to Wikipedia,
