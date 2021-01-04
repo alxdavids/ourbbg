@@ -7,7 +7,7 @@ description: "A look into the transfer window of 2008, as Derby looked
 to save their first season back in the Premiership since 2002."
 categories: ["article", "match"]
 tags: ["key moment", "jewell era"] 
-podcastPath: ""
+podcastPath: "Episode-4---January-2008-eohjjh"
 draft: false
 ---
 
