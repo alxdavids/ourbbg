@@ -5,7 +5,7 @@ image: "images/post/january-2008.jpeg"
 author: "Alex Davidson" 
 description: "A look into the transfer window of 2008, as Derby looked
 to save their first season back in the Premiership since 2002."
-categories: ["article", "match"]
+categories: ["article", "moment"]
 tags: ["key moment", "jewell era"] 
 podcastPath: "Episode-4---January-2008-eohjjh"
 draft: false
