@@ -7,7 +7,7 @@ description: "A look into the transfer window of 2008, as Derby looked
 to save their first season back in the Premiership since 2002."
 categories: ["article", "match"]
 tags: ["key moment", "jewell era"] 
-podcastPath: ""
+podcastPath: "Episode-4---January-2008-eohjjh"
 draft: false
 ---
 
@@ -32,12 +32,12 @@ onto their recently acquired Premier League status. Sadly enough, it is
 plausible that the club (and the world) has never really recovered from
 the disastrous choices that were made.
 
-## 7 points from 21 games
+## 7 points from 20 matches
 
 We would need much more time and Internet page real estate to comb over
 the details of what actually went wrong in the full season. But we join
 Derby County on 01 January, with the club sitting on 7 points from 20
-matches, and 9 points adrift of safety. If the disparity in points
+played, and 9 points adrift of safety. If the disparity in points
 totals didn't illustrate the chasm in quality between Derby and their
 rivals, perhaps the -36 goal difference, compared with the next worst
 -19, would.
