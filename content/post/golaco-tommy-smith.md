@@ -185,7 +185,7 @@ goalscorer from wide areas for the best part of the next decade. From
 right-to-left the ball had gone, and from left-to-right Smith passed the
 ball back into the opposite corner.
 
-![Tommy Smith scoring past Paul Gerrard](http://localhost:1313/images/tommy-smith/goal.jpeg)
+![Tommy Smith scoring past Paul Gerrard](http://ourbaseballground.com/images/tommy-smith/goal.jpeg)
 
 The destruction was complete. It was a move that ended the game as a
 contest. Derby had the nerve to miss a penalty before Rasiak would pile
