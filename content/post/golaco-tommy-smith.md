@@ -182,8 +182,8 @@ classic inside forward. He rolls the ball into the space and the box,
 without waiting even to glance.
 
 Inside forwards? In 2004?! Tommy Smith didn't even have to break his
-stride. His career had not taken off as a central striker. Nevertheless
-Derby's decision to play him on the wing, especially on the left, had
+stride. His career had not taken off as a central striker. Nevertheless,
+Burley's decision to play him on the wing, especially on the left, had
 raised eyebrows. This was the move that would start his career again,
 Premiership moves and a career that saw him continue as a regular
 goalscorer from wide areas for the best part of the next decade. From
