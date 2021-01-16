@@ -165,8 +165,8 @@ towards the other side of the pitch. Rather than continuing into the
 box, he pulls the ball back early to the centre of the pitch, 30 yards
 from goal. This space, this year, is defined by one player. The golden
 hair of Idiakez flowing as he receives the ball. The central pivot
-around which this team orbits. Possibly the most creative midfielder
-that I've ever seen in my time at Pride Park.
+around which this team orbits. Easily the most creative midfielder
+that I've ever seen in my time watching matches at Pride Park.
 
 Idiakez wants to score, as he would do many times this season. He's
 close to the box, this is perfect range. He looks at goal. But, he
