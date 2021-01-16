@@ -44,11 +44,14 @@ Forest that brought Joe Kinnear's tenure to an ignominious end. The game
 lives longer in the memory as an exhibition of the complete team that
 Burley had accidentally built. The best illustration being in the fourth
 minute. With Derby pulling Forest apart from right to left, Tommy Smith
-had the glory of rolling the ball into the corner. But *this* goal was a
-love letter to freedom of movement: on football pitches, and in labour
-markets; designed entirely by new teammates, and dedicated to their
-shared understanding. Exactly the sort of freedom, that will no longer
-be permitted for club's playing outside of the UK footballing elite.
+had the glory of rolling the ball into the corner.
+
+There are many better team goals, but *this* goal was a love letter to
+freedom of movement: on football pitches, and in labour markets;
+designed entirely by new teammates, and dedicated to their shared
+understanding. Exactly the sort of freedom, that will no longer be
+permitted in 2021 in post-Brexit Britain. At least for club's playing
+outside of the UK footballing elite.
 
 ## New beginnings
 
