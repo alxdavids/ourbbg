@@ -141,8 +141,7 @@ within a classic team goal. A counter attack, composed of a series of
 short passes.
 
 The move starts deep in the Derby half close to the touchline. Jeff
-Kenna, also signed in March 2004, a player who I remember only for sheer
-dedication to committed play, wins the ball. A right back of the purest
+Kenna, also signed in March 2004, a player who I remember only for dedicateddedication to committed play, wins the ball. A right back of the purest
 form, "*right back* at the end of the pitch".
 
 The ball breaks, to Bisgaard. For some reason, he's left surrounded by a
