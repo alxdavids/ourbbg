@@ -148,9 +148,9 @@ ball high up to a wide area of the pitch. His only foil is the presence
 of the central striker Rasiak who has come deep. Bisgaard was never
 known for pace, rather guile and quick thinking. A one-two with Rasiak
 -- who, as he would do so often this year, holds off the challenge and
-flicks the ball on --
-and Bisgaard is away, pace not a problem. All five opposition players
-are left in his wake, on a different two-dimensional plane.
+flicks the ball on -- and Bisgaard is away, pace not a problem. All five
+opposition players are left in his wake, on a different two-dimensional
+plane.
 
 One of the angles of the build-up has Bisgaard head on, running towards
 the camera. From the moment he first receives the ball, he's never
