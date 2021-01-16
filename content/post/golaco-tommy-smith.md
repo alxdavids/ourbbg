@@ -118,12 +118,12 @@ Joe Kinnear leading them into a relegation battle after finishing
 comfortably in mid-table the season before. For some reason, fans of
 both teams had jumped on his comments that the upcoming game was "just
 any other game", due to the *significance* of the East Midlands rivalry.
-Nowadays, such comments are in fact common-place, presumably as a result
-of manager's attempting to pre-dampen the negative connotations of a
+Nowadays, such comments are common-place, presumably as a result of
+manager's attempting to pre-dampen the negative connotations of a
 defeat. But the comment has since come to define the canon of Kinnear's
-Forest career. His attempt to distract from the importance of the
-game probably did him no favours, especially when he came to resign
-following the defeat.
+Forest career. His attempt to distract from the importance of the game
+probably did him no favours, especially when he came to resign following
+the defeat.
 
 Of course, it is worth remembering that this was an iteration of
 Nottingham Forest that was in terminal decline. A team that would go on
@@ -142,16 +142,17 @@ within a classic team goal. A counter attack, composed of a series of
 short passes.
 
 The move starts deep in the Derby half close to the touchline. Jeff
-Kenna, also signed in March 2004, a player who I remember only for dedicateddedication to committed play, wins the ball. A right back of the purest
+Kenna, also signed in March 2004, a player who I remember only for his
+dedication to committed play, wins the ball. A right back of the purest
 form, "*right back* at the end of the pitch".
 
-The ball breaks, to Bisgaard. For some reason, he's left surrounded by a
-series of five Forest players that have decided to dangerously press the
-ball high up to a wide area of the pitch. His only foil is the presence
-of the central striker Rasiak who has come deep. Bisgaard was never
-known for pace, rather guile and quick thinking. A one-two with Rasiak
--- who, as he would do so often this year, holds off the challenge and
-flicks the ball on -- and Bisgaard is away, pace not a problem. All five
+The ball breaks, to Bisgaard. For some reason, he's left surrounded by
+five Forest players that have decided to dangerously press the ball high
+up to a wide area of the pitch. His only foil is the presence of the
+central striker Rasiak who has come very deep. Bisgaard was never known
+for pace, rather guile and quick-thinking. A one-two with Rasiak -- who,
+as he would do so often this year, holds off the challenge and flicks
+the ball on -- and Bisgaard is away, pace not a problem. All five
 opposition players are left in his wake, on a different two-dimensional
 plane.
 
@@ -166,10 +167,11 @@ Town. Alone on the pitch, two years later.
 Bisgaard's dragged two defenders over to cover, so he's looking at space
 towards the other side of the pitch. Rather than continuing into the
 box, he pulls the ball back early to the centre of the pitch, 30 yards
-from goal. This space, this year, is defined by one player. The golden
-hair of Idiakez flowing as he receives the ball. The central pivot
-around which this team orbits. Easily the most creative midfielder
-that I've ever seen in my time watching matches at Pride Park.
+from goal. This space, this year, is defined by one player. Golden hair
+flowing onto the shoulders of Iñigo Idiakez as he receives the ball. The
+central pivot around which this team orbits. Easily the most creative
+midfielder that I've ever seen in my time watching matches at Pride
+Park.
 
 Idiakez wants to score, as he would do many times this season. He's
 close to the box, this is perfect range. He looks at goal. But, he
@@ -191,16 +193,17 @@ ball back into the opposite corner.
 ![Tommy Smith scoring past Paul Gerrard](https://ourbaseballground.com/images/tommy-smith/goal.jpeg)
 
 The destruction was complete. It was a move that ended the game as a
-contest. Derby had the nerve to miss a penalty before Rasiak would pile
-the misery onto Forest with two instinctive goals in the second half.
+contest. Derby had the nerve to miss a penalty, before Rasiak would
+memorably pile the misery onto Forest with two instinctive goals in the
+second half.
 
 ## Distant memories
 
 In my first year as a season ticket-holder, this was the first time that
 I had seen Derby play Forest live. Both the year and the game would set
-unfair expectations for what I would go onto see since. Only the next
-year, Derby would be back to simply avoiding relegation after having
-lost Rasiak and other key players.
+unfair expectations for what I would go on to see afterwards. Only the
+next year, Derby would be back to simply avoiding relegation after
+having lost Rasiak and other key players.
 
 However, during the rest of 2004-2005, Derby continued to grow and
 finish an improbable 4th place, ahead of eventual playoff winners West
@@ -216,8 +219,8 @@ shortage given the precarious position of the club in 2021. Only today,
 we sat down to watch Derby labour to a 1-0 defeat against relegation
 rivals Rotherham United. Somehow, the permanent appointment of Wayne
 Rooney has generated a sense of optimism. In reality, the club is
-desperate for the sort of introspection about the state of a club that
-is unable even to pay its own players.
+desperate for introspection. The sort of introspection that is demanded
+when a club is unable even to pay its own players.
 
 <br>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Z-XjOBz4vKc?start=41" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
