@@ -145,10 +145,11 @@ form, "*right back* at the end of the pitch".
 The ball breaks, to Bisgaard. For some reason, he's left surrounded by a
 series of five Forest players that have decided to dangerously press the
 ball high up to a wide area of the pitch. His only foil is the presence
-of the forward Peschisolido who has come deep. Bisgaard was never known
-for pace, rather guile and quick thinking. A one-two with Peschisolido,
-and Bisgaard is away, pace not a problem. All five opposition players
-are left in his wake, on a different two-dimensional plane.
+of the central striker Rasiak who has come deep. Bisgaard was never
+known for pace, rather guile and quick thinking. A one-two with Rasiak
+who holds off a defender, and Bisgaard is away, pace not a problem. All
+five opposition players are left in his wake, on a different
+two-dimensional plane.
 
 One of the angles of the build-up has Bisgaard head on, running towards
 the camera. From the moment he first receives the ball, he's never
@@ -186,9 +187,8 @@ ball back into the opposite corner.
 ![Tommy Smith scoring past Paul Gerrard](http://localhost:1313/images/tommy-smith/goal.jpeg)
 
 The destruction was complete. It was a move that ended the game as a
-contest. Derby had the nerve to miss a penalty before Rasiak, who had
-not been involved, would pile the misery onto Forest with two
-instinctive goals in the second half.
+contest. Derby had the nerve to miss a penalty before Rasiak would pile
+the misery onto Forest with two instinctive goals in the second half.
 
 ## Distant memories
 
