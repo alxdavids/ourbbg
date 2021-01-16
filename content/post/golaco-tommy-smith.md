@@ -30,7 +30,7 @@ an ancient beast that previously ruled these lands. Having dared to
 perform with the sort of short-lived swagger that can only come without
 an accompanying sense of expectation.
 
-For Derby? It would be lunacy to claim any season of Derby's recent past
+For Derby? It would be lunacy to claim any season of their recent past
 would be measurable against such high standards. But the immense
 instability of the mid 2000s has dictated and defined the manner in
 which the club has struggled since. From 2003-2008, they iterated
@@ -88,9 +88,10 @@ tribute act for the late 90's Derby County.
 The most notable to join in the summer were the perennial Championship
 bench-warmer Tommy Smith, former Denmark international winger Morten
 Bisgaard from FC Copenhagen, Basque playmaker Iñigo Idiakez from Rayo
-Vallecano, and Grzegorz Rasiak from Poland. These had followed the free
-transfers of Paul Peschisolido and Marco Reich earlier in the year, who
-made telling contributions in avoiding relegation in the Spring.
+Vallecano, and Grzegorz Rasiak from Dyskobolia Grodzisk in Poland. These
+had followed the free transfers of Paul Peschisolido and Marco Reich
+earlier in the year, who made telling contributions in avoiding
+relegation in the Spring.
 
 ## Nottingham Forest
 
