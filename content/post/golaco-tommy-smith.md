@@ -49,8 +49,8 @@ had the glory of rolling the ball into the corner.
 There are many better team goals, but *this* goal was a love letter to
 freedom of movement: on football pitches, and in labour markets;
 designed entirely by new teammates, and dedicated to their shared
-understanding. Exactly the sort of freedom, that will no longer be
-permitted in 2021 in post-Brexit Britain. At least for club's playing
+understanding. Exactly the sort of freedom that will no longer be
+permitted in 2021, in post-Brexit Britain. At least for club's playing
 outside of the UK footballing elite.
 
 ## New beginnings
