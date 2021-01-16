@@ -206,21 +206,21 @@ next year, Derby would be back to simply avoiding relegation after
 having lost Rasiak and other key players.
 
 However, during the rest of 2004-2005, Derby continued to grow and
-finish an improbable 4th place, ahead of eventual playoff winners West
-Ham. Derby's playoffs would end in the semi-final losing 2-0 against a
+unexpectedly finish in 4th place, ahead of eventual playoff winners West
+Ham. Derby's playoffs would end in the semi-final, losing 2-0 against a
 very typical Billy Davies team, and a very typical Preston North End.
 There was some injustice in the injuries to the monumental Idiakez and
-Rasiak that would effectively end Derby's chances before the games
+Rasiak that would effectively end Derby's chances, before they even
 began. The real injustice being that perhaps this team would never be
-remembered in the way that it deserved.
+remembered in the way that it deserved to be.
 
 Returning to times like this demands nostalgia, of which there is no
 shortage given the precarious position of the club in 2021. Only today,
 we sat down to watch Derby labour to a 1-0 defeat against relegation
 rivals Rotherham United. Somehow, the permanent appointment of Wayne
-Rooney has generated a sense of optimism. In reality, the club is
-desperate for introspection. The sort of introspection that is demanded
-when a club is unable even to pay its own players.
+Rooney has generated a sense of optimism. In reality, the club
+desperately needs severe introspection. The sort of introspection that
+is demanded when a club is unable even to pay its own players.
 
 <br>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Z-XjOBz4vKc?start=41" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
