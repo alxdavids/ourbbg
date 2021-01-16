@@ -25,7 +25,7 @@ prolonged period of time: Blackpool in 2010; Atalanta in 2020; Greece in
 
 Such periods can catalyse an instantaneous change in a football team's
 status. It's just as likely that they mysteriously disappear into the
-mist that hugs the close season. Leaving no trace except for the myth of
+mist that hugs the close season. Leaving no trace, except for the myth of
 an ancient beast that previously ruled these lands. Having dared to
 perform with the sort of short-lived swagger that can only come without
 an accompanying sense of expectation.
