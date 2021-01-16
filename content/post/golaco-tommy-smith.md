@@ -20,8 +20,8 @@ with the irrepressible urge to humiliate a seemingly equal opposition:
 [Barcelona against Real
 Madrid](https://www.youtube.com/watch?v=Jeiu7y-a220). Undoubtedly more
 impressive are the teams that define their overachievement over a
-season: Blackpool in 2010; Atalanta in 2020; Greece in 2004; and, of
-course, Leicester in 2016.
+prolonged period of time: Blackpool in 2010; Atalanta in 2020; Greece in
+2004; and, of course, Leicester in 2016.
 
 Such seasons can catalyse an instantaneous change in a football club's
 status. It's just as likely that they mysteriously disappear into the
