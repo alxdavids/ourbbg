@@ -90,8 +90,8 @@ bench-warmer Tommy Smith, former Denmark international winger Morten
 Bisgaard from FC Copenhagen, Basque playmaker Iñigo Idiakez from Rayo
 Vallecano, and Grzegorz Rasiak from Dyskobolia Grodzisk in Poland. These
 had followed the free transfers of Paul Peschisolido and Marco Reich
-earlier in the year, who made telling contributions in avoiding
-relegation in the Spring.
+earlier in the year. Both made telling contributions in helping the club
+to avoid relegation in the spring.
 
 ## Nottingham Forest
 
