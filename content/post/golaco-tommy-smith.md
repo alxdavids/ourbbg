@@ -7,7 +7,7 @@ description: "Looking back at Tommy Smith's goal against Nottingham
 Forest in 2004"
 categories: ["article", "goal"]
 tags: ["memorable goal", "burley era"]
-podcastPath: ""
+podcastPath: "Episode-5---Golao-Tommy-Smith-vs-Nottingham-Forest--2004-ep4e5h"
 draft: false
 ---
 
