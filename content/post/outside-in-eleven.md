@@ -50,7 +50,7 @@ fans. Some of the experiences are unique to me, but anyway, here goes.
 
 ## Goalkeeper: Stephen Bywater
 
-![Stephen Bywater](http://localhost:1313/images/pete-team/bywater.jpeg)
+![Stephen Bywater](https://ourbaseballground.com/images/pete-team/bywater.jpeg)
 
 A surprising choice considering the luminaries who have played in goal
 for the club since 1997: Mart Poom, Lee Grant, Lee Camp, Roy Carroll,
@@ -65,7 +65,7 @@ great goalkeeper and not a great person.
 
 ## Left Back: Chris Powell
 
-![Chris Powell](http://localhost:1313/images/pete-team/powell.jpeg)
+![Chris Powell](https://ourbaseballground.com/images/pete-team/powell.jpeg)
 
 Although this is a man more closely associated with Charlton Athletic,
 Chris Powell was still at Derby when my younger self first became aware
@@ -80,7 +80,7 @@ surprising he didn’t get more.
 
 ## Centre Back: Richard Keogh
 
-![Richard Keogh](http://localhost:1313/images/pete-team/keogh.jpeg)
+![Richard Keogh](https://ourbaseballground.com/images/pete-team/keogh.jpeg)
 
 This is a controversial one and should probably be swerved by a
 non-Derby fan but he really had to be in this team. Not only was he such
@@ -113,7 +113,7 @@ can attest to, it will be the fans picking up the pieces.
 
 ## Centre Back: Lewin Nyatanga
 
-![Lewin Nyatanga](http://localhost:1313/images/pete-team/nyatanga.jpeg)
+![Lewin Nyatanga](https://ourbaseballground.com/images/pete-team/nyatanga.jpeg)
 
 That last paragraph got a bit heavy so I shall rein myself in (I hope).
 The next player follows what will soon become an underlying theme of
@@ -136,7 +136,7 @@ else.
 
 ## Right Back: Gary Rowett
 
-![Gary Rowett](http://localhost:1313/images/pete-team/rowett.png)
+![Gary Rowett](https://ourbaseballground.com/images/pete-team/rowett.png)
 
 This one was an interesting one for me. When Gary Rowett was appointed
 Derby manager in 2017, it seemed like a match made in heaven, like
@@ -157,7 +157,7 @@ makes perfectly clear.
 
 ## Left Winger: Lee Holmes
 
-![Lee Holmes](http://localhost:1313/images/pete-team/holmes.jpeg)
+![Lee Holmes](https://ourbaseballground.com/images/pete-team/holmes.jpeg)
 
 I must confess that this is purely a Championship Manager inclusion. In
 CM 03-04, he and Tom Huddlestone (an obvious candidate for this team
@@ -171,7 +171,7 @@ another decent youngster. But, to me, he was their next great hope.
 
 ## Central Midfielder: Inigo Idiakez
 
-![Inigo Idiakez](http://localhost:1313/images/pete-team/idiakez.jpeg)
+![Inigo Idiakez](https://ourbaseballground.com/images/pete-team/idiakez.jpeg)
 
 Now we’re talking! He immediately stuck out when I came across his name
 because Championship clubs didn’t normally have Spanish players and he
@@ -184,7 +184,7 @@ Town now which is nice for him, presumably.
 
 ## Central Midfielder: Matt Oakley
 
-![Matt Oakley](http://localhost:1313/images/pete-team/oakley.jpeg)
+![Matt Oakley](https://ourbaseballground.com/images/pete-team/oakley.jpeg)
 
 The Derby captain at the time Derby were promoted and a man who seemed
 cut out for the Premier League. He had had a decent spell at Southampton
@@ -202,7 +202,7 @@ because the Alexes praised him a few podcasts ago, I promise.
 
 ## Right Winger: Giles Barnes
 
-![Giles Barnes](http://localhost:1313/images/pete-team/barnes.jpeg)
+![Giles Barnes](https://ourbaseballground.com/images/pete-team/barnes.jpeg)
 
 Another player praised in a recent podcast and, for me, the pinnacle of
 untapped potential at Derby. Derby were not obvious promotion candidates
@@ -222,7 +222,7 @@ them at least once.
 
 ## Striker: Steve Howard
 
-![Steve Howard](http://localhost:1313/images/pete-team/howard.jpeg)
+![Steve Howard](https://ourbaseballground.com/images/pete-team/howard.jpeg)
 
 The man, the mountain, the totem, the (insert laboured metaphor here).
 Stevie Howard was a hero for Luton Town in their surprisingly successful
@@ -239,7 +239,7 @@ but, to me, he will always be the player left behind by Derby.
 
 ## Striker: Paulo Wanchope
 
-![Paulo Wanchope](http://localhost:1313/images/pete-team/wanchope.jpeg)
+![Paulo Wanchope](https://ourbaseballground.com/images/pete-team/wanchope.jpeg)
 
 Taking the last spot is a player who is in this team for how little I
 actually know about him compared to how well I think I know him. To me,
