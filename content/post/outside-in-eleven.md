@@ -6,8 +6,8 @@ author: "Peter Smith"
 description: "Arsenal & Luton fan Peter Smith gives us the rundown on
 eleven players that he associates most with Derby County"
 categories: ["article", "team"]
-tags: ["iconic teams"]
-podcastPath: ""
+tags: ["iconic teams", "guest writer"]
+podcastPath: "Episode-6---Outside-in-A-Derby-County-eleven-Part-1-Goalkeeper-and-defence-epsbuq"
 draft: false
 ---
 
