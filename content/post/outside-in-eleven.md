@@ -8,6 +8,7 @@ eleven players that he associates most with Derby County"
 categories: ["article", "team"]
 tags: ["iconic teams", "guest writer"]
 podcastPath: "Episode-6---Outside-in-A-Derby-County-eleven-Part-1-Goalkeeper-and-defence-epsbuq"
+podcastPathB: ""
 draft: false
 ---
 
