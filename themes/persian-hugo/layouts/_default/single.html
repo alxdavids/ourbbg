@@ -24,6 +24,12 @@
         <div class="text-center">
           <iframe src="{{ .Site.Params.podcast.url }}/{{ .Params.PodcastPath }}" height="102px" width="100%" frameborder="no" scrolling="no"></iframe>
         </div>
+        {{ if .Params.PodcastPathB }}
+        <div class="text-center">
+          <iframe src="{{ .Site.Params.podcast.url }}/{{ .Params.PodcastPathB }}" height="102px" width="100%" frameborder="no"
+            scrolling="no"></iframe>
+        </div>
+        {{ end }}
         {{ end }}
         <br><br>
         <h1 class="mb-4">{{ .Title }}</h1>
