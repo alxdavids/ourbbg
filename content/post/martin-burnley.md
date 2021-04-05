@@ -1,6 +1,6 @@
 ---
 title: "Turning points: Chris Martin vs Burnley, 2014"
-date: 2021-04-03
+date: 2021-04-11
 image: "images/post/martin-burnley.jpg"
 author: "Alex Davidson" 
 description: "Returning to the moment that changed everything"
@@ -45,7 +45,7 @@ veneer may finally be wearing off.
 
 ## So, *where* did it all go wrong?
 
-The *raison d'etre* of this body of work has always been to scrutinise
+The *raison d'être* of this body of work has always been to scrutinise
 the points along a curve charting the systemic decline of Derby County.
 But in the face of the genuine uncertainty that surrounds the club, it
 seems pertinent to define, for certain, where the global maxima of this
