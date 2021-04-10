@@ -41,7 +41,14 @@ numerous failed attempts to recover lost pride and money from previous
 employees, have never really stuck to a man that takes immense pride in
 publicly engorging the myth of his business acumen. However, with
 nothing to show from a season that has been left in tatters, the teflon
-veneer may finally be wearing off.
+veneer may finally be wearing off. 
+
+Morris's legacy will probably be defined by who he passes the club onto,
+rather than anything he managed in his own time. At the time of writing,
+a young man with plausible links to the far-right in Spain and financed
+by a set of essentially unknown backers seems to be the heir apparent.
+So it seems like everything is finally heading in the right direction,
+no?
 
 ## So, *where* did it all go wrong?
 
@@ -81,9 +88,10 @@ Robert Madley's judgement. Instead it embodies the most obvious
 fluctuation of the chaotic theory that underlies all of Derby's recent
 problems. I stood in the away end at Turf Moor in 2014, and watched a
 red card flutter in the cold air of a receding North West winter. In
-2021, I sit in Lisboa, Portugal during an endless global pandemic,
-wondering how Derby County can arrest their slow and desperate slide
-towards the lower reaches of English football.
+2021, I find myself in Lisboa, Portugal during an endless global
+pandemic, still worrying about Derby County; wondering how it may be
+possible that they can arrest their slow and desperate slide towards the
+lower reaches of English football.
 
 ## The stage
 
@@ -96,12 +104,14 @@ a crucial point for both sides in asserting which way the promotion
 battle may go.
 
 We arrived in Burnley on a Saturday afternoon a couple of hours before
-the game after driving directly west from our home in Leeds, and had a
-walk around looking for something to eat. For lunch, we picked up a
-veggie burger for myself and a dubious kebab for the other Alex; we had
-not yet made the transformation into herbivorous animals. We shivered in
-the cold for a few minutes after eating, before accepting that we should
-just go and sit in the stadium and wait for something to happen. 
+the game after driving directly west from our home in Leeds. We had a
+walk around looking for something to eat for lunch. Eventually we
+settled on the kind of unassuming takeaway that you would usually settle
+on at 2am in the centre of a city, picking up a veggie burger for myself
+and a dubious kebab for the other Alex — we had not yet made the
+transformation into herbivorous animals. Anyway, we shivered in the cold
+for a few minutes after eating, before accepting that we should just go
+and sit in the stadium and wait for something to happen. 
 
 Turf Moor is an old, unwelcoming type of stadium; Burnley, under Sean
 Dyche, are an old, unwelcoming type of team. The away end behind one of
@@ -114,10 +124,10 @@ A typical Dyche outfit, Burnley's starting 11 had seen little variation
 over the season, and it was the sixth game running that they went
 unchanged. Derby had long undergone their transformation into the 4-3-3
 that became synonmous with McClaren's time in charge, but with a much
-more approach flexible approach to the playing personnel. Ultimately,
-leaving the so-far impressive Patrick Bamford on the bench alongside
-Craig Bryson may have been the biggest problem in this particular game,
-but it's impossible to judge these things with any sense of accuracy.
+more flexible approach to the playing personnel. Perhaps leaving the
+so-far impressive Patrick Bamford on the bench alongside Craig Bryson
+may have been the biggest problem in this particular game, but it's
+impossible to judge these things with any sense of accuracy.
 
 ## The game
 
@@ -129,7 +139,7 @@ Chris Martin had seemingly been ignored, but Jeff Hendrick<sup>1</sup>
 still curled a loose ball into the bottom of the net, it seemed like a
 gift that Derby had barely deserved. And we celebrated like it too.
 
-Cur the sarcastic cheers of the home fans. A whistle had been blown. The
+Cue the sarcastic cheers of the home fans. A whistle had been blown. The
 ball had fallen loose from an altercation between a Burnley defender and
 the already-booked Chris Martin. A figure of incomparable importance to
 Derby for so long, but this year he was absolute in his play. This was
@@ -144,10 +154,11 @@ The second yellow was unleashed and withdrawn, followed by the red.
 
 It was in these seconds, that we realised that everything had been lost.
 The goal wouldn't count, it was still 1-0. The penalty that we had
-pleaded for seconds earlier? It would not be given. And the stable fixed
-point around which the dynamics of the entire team converged had been
-removed. All that was left, was to accept defeat. The promotion race
-had, in all likelihood, been settled.
+pleaded for seconds earlier? It would not be given. The ball that had
+hit the back of the net? Placed into the arms of Tom Heaton. And the
+stable fixed point up front around which the dynamics of the entire team
+converged had been removed. All that was left, was to accept defeat. The
+promotion race had, in all likelihood, been settled.
 
 ## The impact
 
@@ -165,27 +176,28 @@ of a potential playoff final. Such events are prone to being decided by
 the dice throws of random variables, rather than the output of any
 coherent function of a team's general ability.
 
-Maybe Derby would have gone on to be promoted. Maybe they would have
-returned at the first time of asking. Maybe they would have stayed and
-battled relegation for a few years. Maybe they would have won the
-Premier League... 
+Maybe Derby could have avoided defeat. Maybe they would have gone on to
+be promoted. Maybe they would have returned at the first time of asking,
+or maybe they would have stayed and battled relegation for a few years.
+Maybe they would have won the Premier League like one of the teams
+involved in this promotion race... 
 
-Ifs, buts, maybes. Derby never did, and the only player left from that
-team is Craig Forsyth. Chris Martin left almost a year ago. It will be a
-while until someone else has as sustained and effective impact for the
-club, though it still feels like there was so much more to be achieved.
+Ifs, buts, doubts, and hopes. Derby never did, and the only player left
+from that team is Craig Forsyth. Chris Martin left almost a year ago. It
+will be a while until someone else has as sustained and effective impact
+for the club. Though, ultimately, it still feels like there was so much
+more that he and Derby could have achieved.
 
-So, this is where I return to sometimes, when I sit in my living room
-and watch Derby close out a turgid win at home to Luton Town. A result
+So, this is where I return to sometimes, when I sit down to the pleasure
+of watching Derby close out a turgid win at home to Luton Town. A result
 that is essential as much as it is a depressing sign of the times. I
 drift away from the present and make the long journey back to Burnley
 seven years ago. Imagining physically going to watch a team, playing
 enjoyable games of football, winning a healthy proportion of the time.
-It's unfathomable, for so many reasons.
+For so many reasons it's unfathomable.
 
 To conclude everything, you ask me: where did it all go wrong? **Here**.
-This
-was the moment.
+This was the moment.
 
 <br>
 
