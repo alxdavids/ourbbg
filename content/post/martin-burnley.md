@@ -45,8 +45,8 @@ veneer may finally be wearing off.
 
 Morris's legacy will probably be defined by who he passes the club onto,
 rather than anything he managed in his own time. At the time of writing,
-a young man with plausible links to the far-right in Spain and financed
-by a set of essentially unknown backers seems to be the heir apparent.
+a young man with plausible links to the far-right in Spain — financed
+by a set of essentially unknown backers — seems to be the heir apparent.
 So it seems like everything is finally heading in the right direction,
 no?
 
