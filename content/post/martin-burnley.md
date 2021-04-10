@@ -1,6 +1,6 @@
 ---
 title: "Turning points: Chris Martin vs Burnley, 2014"
-date: 2021-04-11
+date: 2021-04-10
 image: "images/post/martin-burnley.jpg"
 author: "Alex Davidson" 
 description: "Returning to the moment that changed everything"
