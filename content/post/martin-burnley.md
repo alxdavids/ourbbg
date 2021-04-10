@@ -58,11 +58,11 @@ But in the face of the genuine uncertainty that surrounds the club, it
 seems pertinent to define, for certain, where the global maxima of this
 journey lies in real footballing terms. The minutiae of events that
 occur external to the football that is played can be debated by people
-for time eternal. But which of the moments on the many football pitches
-that Derby have inhabited best captures the turning of the tide? Where
-would *you* return to, if you were given the chance to try it all again?
-To turn Derby County into a regular bottom-half of the Premiership team?
-(Of course, there has to be some sense of realism).
+for time eternal. But which of the moments, on all of these football
+pitches that Derby have inhabited, best captures the turning of the
+tide? Where would *you* return to, if you were given the chance to try
+it all again? To turn Derby County into a regular bottom-half of the
+Premiership team? (Of course, there has to be some sense of realism).
 
 For me, probably unsurprisingly, we must return to 2014. Amidst the wild
 and ceaseless ascent of Steve McClaren's first year in charge. But, it
@@ -84,8 +84,8 @@ forth by a referee.
 off](https://ourbaseballground.com/images/martin-burnley/red-card.jpg)
 
 It is not that I think that there was an especially glaring error in
-Robert Madley's judgement. Instead it embodies the most obvious
-fluctuation of the chaotic theory that underlies all of Derby's recent
+Robert Madley's judgement. Instead, the moment embodies the most obvious
+visualisation of the chaotic theory that underlies all of Derby's recent
 problems. I stood in the away end at Turf Moor in 2014, and watched a
 red card flutter in the cold air of a receding North West winter. In
 2021, I find myself in Lisboa, Portugal during an endless global
