@@ -1,7 +1,7 @@
 ---
 title: "Derby County vs Leeds 2018-2020"
 date: 2021-05-02
-image: "images/post/outside-in-eleven.jpeg"
+image: "images/post/leeds-rivalry.jpg"
 author: "Alex Davidson" 
 description: "We chart the history of the recent Derby-Leeds rivalry before Leed's promotion in 2020"
 categories: ["article", "moment"]
