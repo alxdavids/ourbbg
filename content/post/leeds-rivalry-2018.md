@@ -1,5 +1,5 @@
 ---
-title: "Derby County vs Leeds 2018-2020"
+title: "Derby County vs Leeds United: 2018-2020"
 date: 2021-05-02
 image: "images/post/leeds-rivalry.jpg"
 author: "Alex Davidson" 
