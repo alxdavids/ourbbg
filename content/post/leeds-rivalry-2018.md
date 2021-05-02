@@ -6,7 +6,7 @@ author: "Alex Davidson"
 description: "We chart the history of the recent Derby-Leeds rivalry before Leed's promotion in 2020"
 categories: ["article", "moment"]
 tags: ["key moment", "lampard era", "cocu era"]
-podcastPath: ""
+podcastPath: "Episode-9---Derby-County-vs-Leeds-United-2018-2020-Part-1-Panel-discussion-e1037um"
 podcastPathB: ""
 draft: false
 ---
