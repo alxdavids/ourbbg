@@ -7,7 +7,7 @@ description: "We chart the history of the recent Derby-Leeds rivalry before Leed
 categories: ["article", "moment"]
 tags: ["key moment", "lampard era", "cocu era"]
 podcastPath: "Episode-9---Derby-County-vs-Leeds-United-2018-2020-Part-1-Panel-discussion-e1037um"
-podcastPathB: ""
+podcastPathB: "Episode-10---Derby-County-vs-Leeds-United-2018-2020-Part-2-Panel-discussion-e10681t"
 draft: false
 ---
 
